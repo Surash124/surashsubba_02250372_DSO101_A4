@@ -3,7 +3,7 @@ Deploy my First Web App using GitHub &amp; Render
 
 # Deploy Your First Web App using GitHub & Render (DSO101 - Assignment 4)
 
-## 🌐 Live Application
+## Live Application
 
 **URL:** https://surashsubba-02250372-dso101-a4.onrender.com
 
